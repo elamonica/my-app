@@ -1,0 +1,466 @@
+2014-04-09 23:19:57.163 HelloWorld[38542:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:19:57.656 HelloWorld[38542:70b] Resetting plugins due to page load.
+2014-04-09 23:19:57.765 HelloWorld[38542:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-09 23:33:43.630 HelloWorld[40728:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:33:43.791 HelloWorld[40728:70b] Resetting plugins due to page load.
+2014-04-09 23:33:43.848 HelloWorld[40728:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 23:36:10.155 HelloWorld[44557:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:36:10.319 HelloWorld[44557:70b] Resetting plugins due to page load.
+2014-04-09 23:36:10.387 HelloWorld[44557:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-09 23:36:50.428 HelloWorld[44557:70b] Received memory warning.
+2014-04-09 23:38:08.600 HelloWorld[46549:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:38:08.815 HelloWorld[46549:70b] Resetting plugins due to page load.
+2014-04-09 23:38:08.897 HelloWorld[46549:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-09 23:38:56.608 HelloWorld[48445:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-09 23:38:56.770 HelloWorld[48445:70b] Resetting plugins due to page load.
+2014-04-09 23:38:56.814 HelloWorld[48445:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 00:07:07.004 HelloWorld[51031:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:07:07.171 HelloWorld[51031:70b] Resetting plugins due to page load.
+2014-04-10 00:07:07.224 HelloWorld[51031:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:07:07.227 HelloWorld[51031:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:07:07.229 HelloWorld[51031:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:07:07.430 HelloWorld[51031:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:08:13.057 HelloWorld[52937:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:08:13.155 HelloWorld[52937:70b] Resetting plugins due to page load.
+2014-04-10 00:08:13.179 HelloWorld[52937:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:08:13.179 HelloWorld[52937:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:08:13.180 HelloWorld[52937:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:08:13.200 HelloWorld[52937:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 00:11:17.901 HelloWorld[54906:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:11:18.071 HelloWorld[54906:70b] Resetting plugins due to page load.
+2014-04-10 00:11:18.149 HelloWorld[54906:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:11:18.150 HelloWorld[54906:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:11:18.150 HelloWorld[54906:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:11:18.183 HelloWorld[54906:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:13:10.014 HelloWorld[56898:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:13:10.178 HelloWorld[56898:70b] Resetting plugins due to page load.
+2014-04-10 00:13:10.228 HelloWorld[56898:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:13:10.228 HelloWorld[56898:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:13:10.229 HelloWorld[56898:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:13:10.269 HelloWorld[56898:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:16:30.477 HelloWorld[58857:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:16:30.579 HelloWorld[58857:70b] Resetting plugins due to page load.
+2014-04-10 00:16:30.602 HelloWorld[58857:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:16:30.603 HelloWorld[58857:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:16:30.603 HelloWorld[58857:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:16:30.625 HelloWorld[58857:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:28:17.999 HelloWorld[60991:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:28:18.124 HelloWorld[60991:70b] Resetting plugins due to page load.
+2014-04-10 00:28:18.150 HelloWorld[60991:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:28:18.150 HelloWorld[60991:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:28:18.151 HelloWorld[60991:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:28:18.179 HelloWorld[60991:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:29:10.825 HelloWorld[62911:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:29:11.001 HelloWorld[62911:70b] Resetting plugins due to page load.
+2014-04-10 00:29:11.055 HelloWorld[62911:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:29:11.055 HelloWorld[62911:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:29:11.056 HelloWorld[62911:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:29:11.122 HelloWorld[62911:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:31:08.348 HelloWorld[64863:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:31:08.541 HelloWorld[64863:70b] Resetting plugins due to page load.
+2014-04-10 00:31:08.591 HelloWorld[64863:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:31:08.592 HelloWorld[64863:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:31:08.593 HelloWorld[64863:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:31:08.667 HelloWorld[64863:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 00:32:48.360 HelloWorld[66814:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:32:48.540 HelloWorld[66814:70b] Resetting plugins due to page load.
+2014-04-10 00:32:48.596 HelloWorld[66814:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:32:48.597 HelloWorld[66814:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:32:48.597 HelloWorld[66814:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:32:48.634 HelloWorld[66814:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:35:00.518 HelloWorld[68742:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:35:00.614 HelloWorld[68742:70b] Resetting plugins due to page load.
+2014-04-10 00:35:00.640 HelloWorld[68742:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:35:00.640 HelloWorld[68742:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:35:00.641 HelloWorld[68742:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:35:00.665 HelloWorld[68742:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:36:20.083 HelloWorld[70673:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:36:20.253 HelloWorld[70673:70b] Resetting plugins due to page load.
+2014-04-10 00:36:20.291 HelloWorld[70673:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:36:20.293 HelloWorld[70673:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:36:20.295 HelloWorld[70673:4003] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:36:20.333 HelloWorld[70673:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:37:24.290 HelloWorld[72609:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:37:24.488 HelloWorld[72609:70b] Resetting plugins due to page load.
+2014-04-10 00:37:24.527 HelloWorld[72609:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:37:24.527 HelloWorld[72609:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:37:24.528 HelloWorld[72609:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=false'
+2014-04-10 00:37:24.565 HelloWorld[72609:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 00:40:10.360 HelloWorld[74574:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:40:10.541 HelloWorld[74574:70b] Resetting plugins due to page load.
+2014-04-10 00:40:10.576 HelloWorld[74574:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:40:10.577 HelloWorld[74574:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:40:10.578 HelloWorld[74574:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:40:10.615 HelloWorld[74574:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:43:15.898 HelloWorld[76546:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:43:16.090 HelloWorld[76546:70b] Resetting plugins due to page load.
+2014-04-10 00:43:16.131 HelloWorld[76546:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:43:16.133 HelloWorld[76546:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:43:16.134 HelloWorld[76546:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:43:16.173 HelloWorld[76546:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:47:53.919 HelloWorld[78550:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:47:54.090 HelloWorld[78550:70b] Resetting plugins due to page load.
+2014-04-10 00:47:54.142 HelloWorld[78550:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:47:54.142 HelloWorld[78550:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:47:54.143 HelloWorld[78550:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:47:54.176 HelloWorld[78550:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:49:11.621 HelloWorld[80486:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:49:11.802 HelloWorld[80486:70b] Resetting plugins due to page load.
+2014-04-10 00:49:11.835 HelloWorld[80486:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:49:11.837 HelloWorld[80486:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:49:11.837 HelloWorld[80486:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?key=AIzaSyDtS9QmbyLedqOhLCvZ5s1-LUR_rbOMuXI&sensor=true'
+2014-04-10 00:49:11.934 HelloWorld[80486:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:53:39.953 HelloWorld[82484:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:53:40.134 HelloWorld[82484:70b] Resetting plugins due to page load.
+2014-04-10 00:53:40.180 HelloWorld[82484:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:53:40.181 HelloWorld[82484:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:53:40.181 HelloWorld[82484:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:53:40.183 HelloWorld[82484:1303] ERROR whitelist rejection: url='http://code.google.com/apis/maps/documentation/javascript/examples/default.css'
+2014-04-10 00:53:40.183 HelloWorld[82484:1303] ERROR whitelist rejection: url='http://code.google.com/apis/maps/documentation/javascript/examples/default.css'
+2014-04-10 00:53:40.184 HelloWorld[82484:1303] ERROR whitelist rejection: url='http://code.google.com/apis/maps/documentation/javascript/examples/default.css'
+2014-04-10 00:53:40.226 HelloWorld[82484:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 00:56:19.081 HelloWorld[84449:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:56:19.237 HelloWorld[84449:70b] Resetting plugins due to page load.
+2014-04-10 00:56:19.285 HelloWorld[84449:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:56:19.286 HelloWorld[84449:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:56:19.286 HelloWorld[84449:3f03] ERROR whitelist rejection: url='https://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:56:19.317 HelloWorld[84449:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 00:58:35.105 HelloWorld[86446:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 00:58:35.263 HelloWorld[86446:70b] Resetting plugins due to page load.
+2014-04-10 00:58:35.305 HelloWorld[86446:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:58:35.306 HelloWorld[86446:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:58:35.307 HelloWorld[86446:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 00:58:35.342 HelloWorld[86446:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 01:05:11.787 HelloWorld[88543:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:05:11.944 HelloWorld[88543:70b] Resetting plugins due to page load.
+2014-04-10 01:05:11.985 HelloWorld[88543:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:05:11.986 HelloWorld[88543:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:05:11.987 HelloWorld[88543:3f03] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:05:12.023 HelloWorld[88543:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 01:06:48.453 HelloWorld[90486:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:06:48.635 HelloWorld[90486:70b] Resetting plugins due to page load.
+2014-04-10 01:06:48.681 HelloWorld[90486:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:06:48.681 HelloWorld[90486:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:06:48.682 HelloWorld[90486:4003] ERROR whitelist rejection: url='http://maps.googleapis.com/maps/api/js?sensor=false'
+2014-04-10 01:06:48.718 HelloWorld[90486:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+2014-04-10 01:10:15.556 HelloWorld[92468:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:10:15.598 HelloWorld[92468:70b] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '*** -[__NSArrayM insertObject:atIndex:]: object cannot be nil'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x000dc1e4 __exceptionPreprocess + 180
+	1   libobjc.A.dylib                     0x01df98e5 objc_exception_throw + 44
+	2   CoreFoundation                      0x0008eabc -[__NSArrayM insertObject:atIndex:] + 844
+	3   CoreFoundation                      0x0008e760 -[__NSArrayM addObject:] + 64
+	4   HelloWorld                          0x0001cd7a -[CDVConfigParser parser:didStartElement:namespaceURI:qualifiedName:attributes:] + 1498
+	5   Foundation                          0x01ae87dd _startElementNs + 1403
+	6   libxml2.2.dylib                     0x060f51e4 xmlParseStartTag2 + 4212
+	7   libxml2.2.dylib                     0x060f804e xmlParseTryOrFinish + 4457
+	8   libxml2.2.dylib                     0x060f6cfa xmlParseChunk + 886
+	9   Foundation                          0x01ae68fb -[NSXMLParser parseData:] + 329
+	10  Foundation                          0x01ae6c17 -[NSXMLParser parseData:] + 1125
+	11  Foundation                          0x01ae6df1 -[NSXMLParser parseFromStream] + 287
+	12  Foundation                          0x01ae6f2b -[NSXMLParser parse] + 33
+	13  HelloWorld                          0x0000ce20 -[CDVViewController loadSettings] + 752
+	14  HelloWorld                          0x0000c320 -[CDVViewController __init] + 1280
+	15  HelloWorld                          0x0000c3f4 -[CDVViewController initWithNibName:bundle:] + 196
+	16  HelloWorld                          0x00021ea8 -[MainViewController initWithNibName:bundle:] + 152
+	17  UIKit                               0x0045f2c9 -[UIViewController init] + 49
+	18  HelloWorld                          0x0000c5be -[CDVViewController init] + 78
+	19  HelloWorld                          0x00021f8b -[MainViewController init] + 75
+	20  HelloWorld                          0x00021712 -[AppDelegate application:didFinishLaunchingWithOptions:] + 514
+	21  UIKit                               0x0033d14f -[UIApplication _handleDelegateCallbacksWithOptions:isSuspended:restoreState:] + 309
+	22  UIKit                               0x0033daa1 -[UIApplication _callInitializationDelegatesForURL:payload:suspended:] + 1810
+	23  UIKit                               0x00342667 -[UIApplication _runWithURL:payload:launchOrientation:statusBarStyle:statusBarHidden:] + 824
+	24  UIKit                               0x00356f92 -[UIApplication handleEvent:withNewEvent:] + 3517
+	25  UIKit                               0x00357555 -[UIApplication sendEvent:] + 85
+	26  UIKit                               0x00344250 _UIApplicationHandleEvent + 683
+	27  GraphicsServices                    0x032c6f02 _PurpleEventCallback + 776
+	28  GraphicsServices                    0x032c6a0d PurpleEventCallback + 46
+	29  CoreFoundation                      0x00057ca5 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE1_PERFORM_FUNCTION__ + 53
+	30  CoreFoundation                      0x000579db __CFRunLoopDoSource1 + 523
+	31  CoreFoundation                      0x0008268c __CFRunLoopRun + 2156
+	32  CoreFoundation                      0x000819d3 CFRunLoopRunSpecific + 467
+	33  CoreFoundation                      0x000817eb CFRunLoopRunInMode + 123
+	34  UIKit                               0x00341d9c -[UIApplication _run] + 840
+	35  UIKit                               0x00343f9b UIApplicationMain + 1225
+	36  HelloWorld                          0x0002132c main + 92
+	37  HelloWorld                          0x000212bd start + 53
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2014-04-10 01:11:42.646 HelloWorld[94407:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:11:42.652 HelloWorld[94407:70b] *** Terminating app due to uncaught exception 'NSInvalidArgumentException', reason: '*** -[__NSArrayM insertObject:atIndex:]: object cannot be nil'
+*** First throw call stack:
+(
+	0   CoreFoundation                      0x000dc1e4 __exceptionPreprocess + 180
+	1   libobjc.A.dylib                     0x01df98e5 objc_exception_throw + 44
+	2   CoreFoundation                      0x0008eabc -[__NSArrayM insertObject:atIndex:] + 844
+	3   CoreFoundation                      0x0008e760 -[__NSArrayM addObject:] + 64
+	4   HelloWorld                          0x0001cd7a -[CDVConfigParser parser:didStartElement:namespaceURI:qualifiedName:attributes:] + 1498
+	5   Foundation                          0x01ae87dd _startElementNs + 1403
+	6   libxml2.2.dylib                     0x060f51e4 xmlParseStartTag2 + 4212
+	7   libxml2.2.dylib                     0x060f804e xmlParseTryOrFinish + 4457
+	8   libxml2.2.dylib                     0x060f6cfa xmlParseChunk + 886
+	9   Foundation                          0x01ae68fb -[NSXMLParser parseData:] + 329
+	10  Foundation                          0x01ae6c17 -[NSXMLParser parseData:] + 1125
+	11  Foundation                          0x01ae6df1 -[NSXMLParser parseFromStream] + 287
+	12  Foundation                          0x01ae6f2b -[NSXMLParser parse] + 33
+	13  HelloWorld                          0x0000ce20 -[CDVViewController loadSettings] + 752
+	14  HelloWorld                          0x0000c320 -[CDVViewController __init] + 1280
+	15  HelloWorld                          0x0000c3f4 -[CDVViewController initWithNibName:bundle:] + 196
+	16  HelloWorld                          0x00021ea8 -[MainViewController initWithNibName:bundle:] + 152
+	17  UIKit                               0x0045f2c9 -[UIViewController init] + 49
+	18  HelloWorld                          0x0000c5be -[CDVViewController init] + 78
+	19  HelloWorld                          0x00021f8b -[MainViewController init] + 75
+	20  HelloWorld                          0x00021712 -[AppDelegate application:didFinishLaunchingWithOptions:] + 514
+	21  UIKit                               0x0033d14f -[UIApplication _handleDelegateCallbacksWithOptions:isSuspended:restoreState:] + 309
+	22  UIKit                               0x0033daa1 -[UIApplication _callInitializationDelegatesForURL:payload:suspended:] + 1810
+	23  UIKit                               0x00342667 -[UIApplication _runWithURL:payload:launchOrientation:statusBarStyle:statusBarHidden:] + 824
+	24  UIKit                               0x00356f92 -[UIApplication handleEvent:withNewEvent:] + 3517
+	25  UIKit                               0x00357555 -[UIApplication sendEvent:] + 85
+	26  UIKit                               0x00344250 _UIApplicationHandleEvent + 683
+	27  GraphicsServices                    0x032c6f02 _PurpleEventCallback + 776
+	28  GraphicsServices                    0x032c6a0d PurpleEventCallback + 46
+	29  CoreFoundation                      0x00057ca5 __CFRUNLOOP_IS_CALLING_OUT_TO_A_SOURCE1_PERFORM_FUNCTION__ + 53
+	30  CoreFoundation                      0x000579db __CFRunLoopDoSource1 + 523
+	31  CoreFoundation                      0x0008268c __CFRunLoopRun + 2156
+	32  CoreFoundation                      0x000819d3 CFRunLoopRunSpecific + 467
+	33  CoreFoundation                      0x000817eb CFRunLoopRunInMode + 123
+	34  UIKit                               0x00341d9c -[UIApplication _run] + 840
+	35  UIKit                               0x00343f9b UIApplicationMain + 1225
+	36  HelloWorld                          0x0002132c main + 92
+	37  HelloWorld                          0x000212bd start + 53
+)
+libc++abi.dylib: terminating with uncaught exception of type NSException
+2014-04-10 01:14:33.193 HelloWorld[96376:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:14:33.213 HelloWorld[96376:70b] Unlimited access to network resources
+2014-04-10 01:14:33.489 HelloWorld[96376:70b] Resetting plugins due to page load.
+2014-04-10 01:14:35.981 HelloWorld[96376:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 01:17:17.470 HelloWorld[98342:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:17:17.480 HelloWorld[98342:70b] Unlimited access to network resources
+2014-04-10 01:17:17.622 HelloWorld[98342:70b] Resetting plugins due to page load.
+2014-04-10 01:17:18.287 HelloWorld[98342:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 01:18:19.577 HelloWorld[456:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:18:19.590 HelloWorld[456:70b] Unlimited access to network resources
+2014-04-10 01:18:19.738 HelloWorld[456:70b] Resetting plugins due to page load.
+2014-04-10 01:18:20.636 HelloWorld[456:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[456]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 01:21:04.333 HelloWorld[456:70b] Cannot find executable for CFBundle 0xa672f40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 01:21:04.343 HelloWorld[456:70b] Cannot find executable for CFBundle 0xa4b0090 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/MusicLibrary.axbundle> (not loaded)
+2014-04-10 01:21:04.355 HelloWorld[456:70b] Cannot find executable for CFBundle 0xa530fe0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+objc[2531]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 01:22:19.077 HelloWorld[2531:70b] Cannot find executable for CFBundle 0xa33a0e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 01:22:19.087 HelloWorld[2531:70b] Cannot find executable for CFBundle 0xa652e60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 01:22:19.136 HelloWorld[2531:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:22:19.145 HelloWorld[2531:70b] Unlimited access to network resources
+2014-04-10 01:22:19.416 HelloWorld[2531:70b] Resetting plugins due to page load.
+2014-04-10 01:22:20.055 HelloWorld[2531:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[4476]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 01:23:42.702 HelloWorld[4476:70b] Cannot find executable for CFBundle 0xa533990 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 01:23:42.710 HelloWorld[4476:70b] Cannot find executable for CFBundle 0xa644470 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 01:23:42.751 HelloWorld[4476:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:23:42.781 HelloWorld[4476:70b] Unlimited access to network resources
+2014-04-10 01:23:43.185 HelloWorld[4476:70b] Resetting plugins due to page load.
+2014-04-10 01:23:45.242 HelloWorld[4476:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[6560]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 01:31:23.913 HelloWorld[6560:70b] Cannot find executable for CFBundle 0xa5aaab0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 01:31:23.920 HelloWorld[6560:70b] Cannot find executable for CFBundle 0xa3a6f50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 01:31:23.956 HelloWorld[6560:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:31:23.965 HelloWorld[6560:70b] Unlimited access to network resources
+2014-04-10 01:31:24.150 HelloWorld[6560:70b] Resetting plugins due to page load.
+2014-04-10 01:31:24.748 HelloWorld[6560:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[8595]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 01:37:55.830 HelloWorld[8595:70b] Cannot find executable for CFBundle 0xa6a5710 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 01:37:55.839 HelloWorld[8595:70b] Cannot find executable for CFBundle 0xa6c5700 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 01:37:55.872 HelloWorld[8595:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 01:37:55.878 HelloWorld[8595:70b] Unlimited access to network resources
+2014-04-10 01:37:56.015 HelloWorld[8595:70b] Resetting plugins due to page load.
+2014-04-10 01:37:58.339 HelloWorld[8595:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[11574]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 02:08:37.176 HelloWorld[11574:70b] Cannot find executable for CFBundle 0xa42d1e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 02:08:37.182 HelloWorld[11574:70b] Cannot find executable for CFBundle 0xa65e210 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 02:08:37.288 HelloWorld[11574:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:08:37.322 HelloWorld[11574:70b] Unlimited access to network resources
+2014-04-10 02:08:37.671 HelloWorld[11574:70b] Resetting plugins due to page load.
+2014-04-10 02:08:40.541 HelloWorld[11574:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[13508]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 02:10:11.247 HelloWorld[13508:70b] Cannot find executable for CFBundle 0xa6a8240 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 02:10:11.253 HelloWorld[13508:70b] Cannot find executable for CFBundle 0xa6c61e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 02:10:11.293 HelloWorld[13508:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:10:11.317 HelloWorld[13508:70b] Unlimited access to network resources
+2014-04-10 02:10:11.658 HelloWorld[13508:70b] Resetting plugins due to page load.
+2014-04-10 02:10:12.320 HelloWorld[13508:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[15472]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 02:12:36.535 HelloWorld[15472:70b] Cannot find executable for CFBundle 0xa6839e0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 02:12:36.544 HelloWorld[15472:70b] Cannot find executable for CFBundle 0xa697700 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 02:12:36.588 HelloWorld[15472:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:12:36.597 HelloWorld[15472:70b] Unlimited access to network resources
+2014-04-10 02:12:36.742 HelloWorld[15472:70b] Resetting plugins due to page load.
+2014-04-10 02:12:38.828 HelloWorld[15472:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-10 02:13:19.179 HelloWorld[15472:70b] Received memory warning.
+objc[17505]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 02:17:07.776 HelloWorld[17505:70b] Cannot find executable for CFBundle 0xa551b90 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 02:17:07.784 HelloWorld[17505:70b] Cannot find executable for CFBundle 0xa5716a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 02:17:07.831 HelloWorld[17505:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 02:17:07.840 HelloWorld[17505:70b] Unlimited access to network resources
+2014-04-10 02:17:08.094 HelloWorld[17505:70b] Resetting plugins due to page load.
+2014-04-10 02:17:10.264 HelloWorld[17505:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[25730]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 10:37:59.122 HelloWorld[25730:70b] Cannot find executable for CFBundle 0xa398630 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 10:37:59.129 HelloWorld[25730:70b] Cannot find executable for CFBundle 0xa597a40 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 10:37:59.206 HelloWorld[25730:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 10:37:59.229 HelloWorld[25730:70b] Unlimited access to network resources
+2014-04-10 10:37:59.593 HelloWorld[25730:70b] Resetting plugins due to page load.
+2014-04-10 10:38:02.047 HelloWorld[25730:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[40723]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 21:44:54.185 HelloWorld[40723:70b] Cannot find executable for CFBundle 0xa69c530 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 21:44:54.192 HelloWorld[40723:70b] Cannot find executable for CFBundle 0xa6c2610 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 21:44:54.248 HelloWorld[40723:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 21:44:54.383 HelloWorld[40723:70b] Unlimited access to network resources
+2014-04-10 21:44:56.951 HelloWorld[40723:70b] Resetting plugins due to page load.
+2014-04-10 21:44:58.401 HelloWorld[40723:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[43073]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-10 21:56:13.178 HelloWorld[43073:70b] Cannot find executable for CFBundle 0xa47ad20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-10 21:56:13.185 HelloWorld[43073:70b] Cannot find executable for CFBundle 0xa494360 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-10 21:56:13.219 HelloWorld[43073:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-10 21:56:13.228 HelloWorld[43073:70b] Unlimited access to network resources
+2014-04-10 21:56:13.364 HelloWorld[43073:70b] Resetting plugins due to page load.
+2014-04-10 21:56:15.655 HelloWorld[43073:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[4826]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 10:26:22.563 HelloWorld[4826:70b] Cannot find executable for CFBundle 0xa643420 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 10:26:22.572 HelloWorld[4826:70b] Cannot find executable for CFBundle 0xa65f1f0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 10:26:22.611 HelloWorld[4826:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 10:26:22.644 HelloWorld[4826:70b] Unlimited access to network resources
+2014-04-11 10:26:22.967 HelloWorld[4826:70b] Resetting plugins due to page load.
+2014-04-11 10:26:27.676 HelloWorld[4826:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[12663]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 15:40:20.605 HelloWorld[12663:70b] Cannot find executable for CFBundle 0xa439e30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 15:40:20.612 HelloWorld[12663:70b] Cannot find executable for CFBundle 0xa61fd20 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 15:40:20.644 HelloWorld[12663:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 15:40:20.736 HelloWorld[12663:70b] Unlimited access to network resources
+2014-04-11 15:40:21.083 HelloWorld[12663:70b] Resetting plugins due to page load.
+2014-04-11 15:44:26.953 HelloWorld[12663:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-04-11 15:44:26.956 HelloWorld[12663:70b] Resetting plugins due to page load.
+objc[14677]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 15:44:51.985 HelloWorld[14677:70b] Cannot find executable for CFBundle 0xa3b3cb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 15:44:51.992 HelloWorld[14677:70b] Cannot find executable for CFBundle 0xa3d3440 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 15:44:52.031 HelloWorld[14677:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 15:44:52.057 HelloWorld[14677:70b] Unlimited access to network resources
+2014-04-11 15:44:52.419 HelloWorld[14677:70b] Resetting plugins due to page load.
+2014-04-11 15:44:53.229 HelloWorld[14677:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-11 15:44:54.915 HelloWorld[14677:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-11 15:44:54.923 HelloWorld[14677:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-04-11 15:45:02.175 HelloWorld[14677:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 15:45:02.180 HelloWorld[14677:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 15:45:02.182 HelloWorld[14677:70b] Resetting plugins due to page load.
+2014-04-11 15:45:02.881 HelloWorld[14677:70b] Failed to load webpage with error: The operation couldn’t be completed. (NSURLErrorDomain error -999.)
+2014-04-11 15:45:02.881 HelloWorld[14677:70b] Resetting plugins due to page load.
+Terminating in response to SpringBoard's termination.
+objc[16672]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 15:48:38.641 HelloWorld[16672:70b] Cannot find executable for CFBundle 0xa690550 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 15:48:38.648 HelloWorld[16672:70b] Cannot find executable for CFBundle 0xa5c5260 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 15:48:38.683 HelloWorld[16672:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 15:48:38.692 HelloWorld[16672:70b] Unlimited access to network resources
+2014-04-11 15:48:38.844 HelloWorld[16672:70b] Resetting plugins due to page load.
+2014-04-11 15:48:39.493 HelloWorld[16672:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-11 15:48:44.926 HelloWorld[16672:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-11 15:48:44.928 HelloWorld[16672:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+2014-04-11 15:49:09.678 HelloWorld[16672:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 15:49:09.679 HelloWorld[16672:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 15:49:09.680 HelloWorld[16672:70b] Resetting plugins due to page load.
+2014-04-11 15:49:10.002 HelloWorld[16672:70b] Finished load of: http://www.axumvm.com.ar/
+2014-04-11 15:49:42.148 HelloWorld[16672:70b] Received memory warning.
+objc[22015]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 18:00:10.095 HelloWorld[22015:70b] Cannot find executable for CFBundle 0xa378fd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 18:00:10.127 HelloWorld[22015:70b] Cannot find executable for CFBundle 0xa67aaf0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 18:00:10.161 HelloWorld[22015:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 18:00:10.193 HelloWorld[22015:70b] Unlimited access to network resources
+2014-04-11 18:00:10.561 HelloWorld[22015:70b] Resetting plugins due to page load.
+2014-04-11 18:00:11.265 HelloWorld[22015:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-11 18:01:40.810 HelloWorld[22015:4007] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+objc[23966]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 18:03:01.262 HelloWorld[23966:70b] Cannot find executable for CFBundle 0xb8b6400 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 18:03:01.266 HelloWorld[23966:70b] Cannot find executable for CFBundle 0xba929a0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 18:03:01.296 HelloWorld[23966:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 18:03:01.302 HelloWorld[23966:70b] Unlimited access to network resources
+2014-04-11 18:03:01.396 HelloWorld[23966:70b] Resetting plugins due to page load.
+2014-04-11 18:03:02.074 HelloWorld[23966:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[25917]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 18:04:56.974 HelloWorld[25917:70b] Cannot find executable for CFBundle 0xa420e60 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 18:04:56.983 HelloWorld[25917:70b] Cannot find executable for CFBundle 0xa43cd30 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 18:04:57.016 HelloWorld[25917:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 18:04:57.027 HelloWorld[25917:70b] Unlimited access to network resources
+2014-04-11 18:04:57.165 HelloWorld[25917:70b] Resetting plugins due to page load.
+2014-04-11 18:04:57.831 HelloWorld[25917:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+Terminating in response to SpringBoard's termination.
+objc[27856]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-11 18:05:49.350 HelloWorld[27856:70b] Cannot find executable for CFBundle 0xa367120 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-11 18:05:49.360 HelloWorld[27856:70b] Cannot find executable for CFBundle 0xa57feb0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-11 18:05:49.400 HelloWorld[27856:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-11 18:05:49.409 HelloWorld[27856:70b] Unlimited access to network resources
+2014-04-11 18:05:49.541 HelloWorld[27856:70b] Resetting plugins due to page load.
+2014-04-11 18:05:50.158 HelloWorld[27856:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-11 18:06:15.203 HelloWorld[27856:3f07] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-04-11 18:06:17.186 HelloWorld[27856:70b] CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 18:06:17.186 HelloWorld[27856:70b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-04-11 18:06:17.187 HelloWorld[27856:70b] Resetting plugins due to page load.
+2014-04-11 18:06:17.405 HelloWorld[27856:70b] Finished load of: http://www.axumvm.com.ar/
+objc[40452]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 15:54:50.274 HelloWorld[40452:70b] Cannot find executable for CFBundle 0xa3bbf80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 15:54:50.284 HelloWorld[40452:70b] Cannot find executable for CFBundle 0xa470ba0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 15:54:50.355 HelloWorld[40452:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 15:54:50.383 HelloWorld[40452:70b] Unlimited access to network resources
+2014-04-16 15:54:50.706 HelloWorld[40452:70b] Resetting plugins due to page load.
+2014-04-16 15:54:51.368 HelloWorld[40452:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-16 15:54:54.229 HelloWorld[40452:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-16 15:54:54.239 HelloWorld[40452:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+objc[43643]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 16:58:21.453 HelloWorld[43643:70b] Cannot find executable for CFBundle 0xa597c10 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 16:58:21.459 HelloWorld[43643:70b] Cannot find executable for CFBundle 0xa599e50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 16:58:21.594 HelloWorld[43643:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 16:58:21.837 HelloWorld[43643:70b] Unlimited access to network resources
+2014-04-16 16:58:23.797 HelloWorld[43643:70b] Resetting plugins due to page load.
+2014-04-16 16:58:25.067 HelloWorld[43643:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[45600]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 16:59:51.357 HelloWorld[45600:70b] Cannot find executable for CFBundle 0xa32a400 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 16:59:51.370 HelloWorld[45600:70b] Cannot find executable for CFBundle 0xa34a000 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 16:59:51.410 HelloWorld[45600:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 16:59:51.419 HelloWorld[45600:70b] Unlimited access to network resources
+2014-04-16 16:59:51.616 HelloWorld[45600:70b] Resetting plugins due to page load.
+2014-04-16 16:59:52.322 HelloWorld[45600:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[47608]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 17:01:27.148 HelloWorld[47608:70b] Cannot find executable for CFBundle 0xa3549b0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 17:01:27.159 HelloWorld[47608:70b] Cannot find executable for CFBundle 0xa373f70 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 17:01:27.235 HelloWorld[47608:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 17:01:27.268 HelloWorld[47608:70b] Unlimited access to network resources
+2014-04-16 17:01:27.712 HelloWorld[47608:70b] Resetting plugins due to page load.
+2014-04-16 17:01:28.443 HelloWorld[47608:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-16 17:01:30.111 HelloWorld[47608:70b] *** Assertion failure in -[UIApplication runModal:](), /SourceCache/UIKit_Sim/UIKit-2935.137/UIApplication.m:9585
+2014-04-16 17:01:30.118 HelloWorld[47608:70b] *** WebKit discarded an uncaught exception in the webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame: delegate: <NSInternalInconsistencyException> The view passed in does not have a window.
+objc[49557]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 17:02:41.444 HelloWorld[49557:70b] Cannot find executable for CFBundle 0xa4879c0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 17:02:41.452 HelloWorld[49557:70b] Cannot find executable for CFBundle 0xa586380 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 17:02:41.493 HelloWorld[49557:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 17:02:41.528 HelloWorld[49557:70b] Unlimited access to network resources
+2014-04-16 17:02:41.991 HelloWorld[49557:70b] Resetting plugins due to page load.
+2014-04-16 17:02:42.678 HelloWorld[49557:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+objc[51501]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
+2014-04-16 17:03:45.892 HelloWorld[51501:70b] Cannot find executable for CFBundle 0xa5787d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
+2014-04-16 17:03:45.981 HelloWorld[51501:70b] Cannot find executable for CFBundle 0xa6623d0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
+2014-04-16 17:03:46.038 HelloWorld[51501:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-16 17:03:46.071 HelloWorld[51501:70b] Unlimited access to network resources
+2014-04-16 17:03:46.540 HelloWorld[51501:70b] Resetting plugins due to page load.
+2014-04-16 17:03:47.258 HelloWorld[51501:70b] Finished load of: file:///Users/ezequiel/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/BE475D99-BF44-46E4-AE08-903B626DC685/HelloWorld.app/www/index.html
+2014-04-16 17:04:12.621 HelloWorld[51501:4207] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
